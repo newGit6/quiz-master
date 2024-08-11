@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "question": "What is the capital of Andhra Pradesh ?",
+      "choices": ["Hyderabad", "Amaravati", "Visakhapatnam", "Vijayawada"],
+      "answer": "Amaravati"
+    },
+    {
+      "question": "Which tag is used to define an unordered list in HTML ?",
+      "choices": ["<ul>", "<ol>", "<li>", "<p>"],
+      "answer": "<ul>"
+    },
+    {
+      "question": "What does HTML stand for ?",
+      "choices": ["Hyper Text Markup Language", "High Tech Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language"],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Which tag is used to define a hyperlink in HTML ?",
+      "choices": ["<link>", "<a>", "<href>", "<hyper>"],
+      "answer": "<a>"
+    },
+    {
+      "question": "What does the HTML tag <em> do ?",
+      "choices": ["Defines emphasized text", "Defines a paragraph", "Defines a heading", "Defines a list item"],
+      "answer": "Defines emphasized text"
+    },
+    {
+      "question": "Which attribute is used to specify an image filename in HTML ?",
+      "choices": ["src", "href", "alt", "title"],
+      "answer": "src"
+    },
+    {
+      "question": "Which attribute is used to define inline styles in HTML ?",
+      "choices": ["class", "style", "id", "font"],
+      "answer": "style"
+    },
+    {
+      "question": "What is the correct HTML for creating a hyperlink?",
+      "choices": [
+        "<a src=\"url\">link text</a>",
+        "<a href=\"url\">link text</a>",
+        "<link href=\"url\">link text</link>",
+        "<hyperlink href=\"url\">link text</hyperlink>"
+      ],
+      "answer": "<a href=\"url\">link text</a>"
+    },
+    
+    {
+      "question": "Which tag is used to define a table row in HTML?",
+      "choices": ["<tr>", "<td>", "<table>", "<th>"],
+      "answer": "<tr>"
+    }
+  ]
+}
